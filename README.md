@@ -39,13 +39,10 @@ You can configure logging levels in the `application.properties` file.
 The Actuator is used for monitoring your application. Configure Actuator properties in `application.properties`.
 
 ## Spring Boot Admin
-
 This project includes Spring Boot Admin, which provides a user-friendly GUI interface for monitoring your Spring Boot Actuator. Make sure to configure it properly for an enhanced monitoring experience.
-
 - [application.properties](https://github.com/Sarthak-sharma1/SpringbootAdmin/blob/main/src/main/resources/application.properties): Configure Spring Boot Admin properties.
 - [Main Spring Boot Application Class](https://github.com/Sarthak-sharma1/SpringbootAdmin/blob/main/src/main/java/com/eazybytes/SpringbootAdminApplication.java): The entry point for your Spring Boot Admin application.
 - [pom.xml](https://github.com/Sarthak-sharma1/SpringbootAdmin/blob/main/pom.xml): Manage project dependencies and settings.
-
 
 ## Paging and Sorting
 This application also incorporates paging and sorting features, making it easy to view and manage messages efficiently.
